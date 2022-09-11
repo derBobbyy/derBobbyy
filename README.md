@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm derBobbyy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> </h3>
 
 <p align="left"> <a href="https://twitter.com/derbobbyy169" target="blank"><img src="https://img.shields.io/twitter/follow/derbobbyy169?logo=twitter&style=for-the-badge" alt="derbobbyy169" /></a> </p>
 
