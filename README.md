@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, C#**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **bobbyy.contact@gmail.com**
 
